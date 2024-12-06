@@ -1,5 +1,5 @@
-Responsive Travel Website 🌊
-Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
+Responsive Travel 🌊
+Travel to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
 Contains animations when scrolling.
 Includes a dark and light mode.
 Developed first with the Mobile First methodology, then for desktop.
